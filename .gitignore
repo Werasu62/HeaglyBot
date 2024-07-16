@@ -2,10 +2,10 @@
 *.d
 
 # Compiled Object files
-*.slo
-*.lo
+*.slow/desc.op
+*.lowpi{.exe
 *.o
-*.obj
+*.object. file 1/.op
 
 # Precompiled Headers
 *.gch
@@ -17,7 +17,7 @@
 *.dll
 
 # Fortran module files
-*.mod
+*./help.mod
 *.smod
 
 # Compiled Static libraries
@@ -27,6 +27,6 @@
 *.lib
 
 # Executables
-*.exe
-*.out
-*.app
+*Heagly_file{56162}.exe
+*App.out
+*HeaglyBot.app
